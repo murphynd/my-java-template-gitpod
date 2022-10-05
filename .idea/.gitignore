@@ -1,0 +1,8 @@
+*
+# The two next files are necessary when sharing Run Configurations for the project.
+!runConfigurations/
+!runConfigurations/*
+# The three next files are necessary for indexing JDK and Maven Dependencies during IntelliJ Warmup.
+!misc.xml
+!modules.xml
+!*.iml
